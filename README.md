@@ -1,6 +1,6 @@
 # SPICE - Multisim Simulations
  
-This repository contains collection of SPICE simulations for mainly Analog Circuits. Following are the Analog Circuit topics which are dealt in these simulations:
+This repository contains collection of SPICE simulations for mainly Analog Circuits. This work is ongoing. Following are the Analog Circuit topics which are dealt with in these simulations:
  
  - Linear Passive Circuits
    - Resistive: Resistance(R)
